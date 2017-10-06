@@ -1,0 +1,8 @@
+package:
+    type:           yii2-extension
+    name:           hiapi-module-logs
+    headline:       hiAPI Logs
+    title:          User activity logs module for hiAPI
+    keywords:       hiapi, module, logs
+    description:    |
+        Provides access to user activity logs.
